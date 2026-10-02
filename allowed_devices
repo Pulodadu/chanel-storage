@@ -1,0 +1,9 @@
+{
+  "whitelistEnabled": true,
+  "allowedDevices": [
+    "",
+      ],
+  "blockedDevices": [],
+  "broadcastMessage": "Aplikasi LAWELA TV dibatasi khusus untuk perangkat terdaftar.",
+  "telegramAdmin": "https://t.me/PuloDadu"
+}
